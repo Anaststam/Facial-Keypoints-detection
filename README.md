@@ -1,5 +1,5 @@
 # Facial-Keypoints-detection
 
-##Introduction to Deep Learning IN2346 at Technical University of Munich 
+## Introduction to Deep Learning IN2346 at Technical University of Munich 
 
-##Based on the paper: Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet
+## Based on the paper: Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet
